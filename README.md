@@ -7,6 +7,6 @@ This is a restaurant website built using HTML, CSS, and JavaScript. It features 
 - **Order Form**: Allows customers to place orders through an easy-to-use form.
 - **Email Notifications**: Sends order responses via email to keep track of customer orders.
 
-## Live Demo
+## Live 
 
 You can view the live website at [overdoze.co](http://overdoze.co).
